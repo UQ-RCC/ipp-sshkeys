@@ -1,0 +1,7 @@
+Hoang Nguyen:
+-------------
+
+This part of code is from BLESS (https://github.com/Netflix/bless.git)
+
+The reason to put it here instead of just using it as library is because BLESS is not maintained anymore. 
+
